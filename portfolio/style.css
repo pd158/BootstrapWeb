@@ -70,6 +70,16 @@ html,body{
   padding-top: 2rem;
 }
 
+#fixed {
+  background: url(img/mac.png) no-repeat center center fixed;
+  display: table;
+  height: 60%;
+  position: relative;
+  width: 100%;
+  background-size: cover;
+
+}
+
 .welcome hr{
   border-top: 2px solid #b4b4b4;
   width: 95%;
